@@ -1,0 +1,31 @@
+html {
+  font-size: 16px;
+}
+
+.row {
+  margin-top: 25vh;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+div a {
+  font-size: 3rem;
+}
+
+form label {
+  font-size: 1.8rem;
+}
+
+#link-form {
+  font-size: 1.8rem;
+}
+
+#input {
+  font-size: 1.4rem;
+}
+
+.btn {
+  font-size: 1.4rem;
+}
